@@ -1,0 +1,1 @@
+export default "SELECT DISTINCT ?property ?value where {<[+++RESOURCE+++]> ?property ?value BIND(datatype(?value) as ?dt) FILTER(IF(isliteral(?value) && !bound(?dt), langMatches(lang(?value),'en'), true)) } order by asc(UCASE(str(?property)))";

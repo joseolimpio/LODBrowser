@@ -1,0 +1,22 @@
+{
+  "name": "jota",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://mariojfjr.com/jota/",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.3",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-graph-vis": "^1.0.2",
+    "react-scripts": "1.1.4",
+    "react-select": "^2.1.1",
+    "reactstrap": "^6.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
