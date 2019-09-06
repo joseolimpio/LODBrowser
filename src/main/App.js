@@ -1,7 +1,7 @@
 /**
 
 LODGvis -Linked Open Data Graph Visualization, 
-Copyright (C) 2019  Danilo Coimbra, José Negrão.
+Copyright (C) 2019  Danilo Barbosa Coimbra, Frederico Araujo Durão and José Olimpio Mouzinho Negrão.
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
